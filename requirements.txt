@@ -1,2 +1,2 @@
-frappe
-elasticsearch-dsl
+frappe==14.0.0
+elasticsearch-dsl==7.4.0
